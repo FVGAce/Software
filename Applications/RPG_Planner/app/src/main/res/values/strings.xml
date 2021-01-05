@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RPG Planner</string>
+    <string name="add">ADD</string>
+    <string name="course_name">Course Name</string>
+    <string name="update">Update</string>
+    <string name="completed_assignments">Completed Assignments:</string>
+    <string name="pending_assignments">Pending Assignments:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_assignment">Add Assignment</string>
+    <string name="add_course">Add Course</string>
+    <string name="update_assignment">update assignment</string>
+    <string name="completed_assignment">Completed Assignment</string>
+</resources>
